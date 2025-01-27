@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sornsomavatey/nodejs-ec2-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sornsomavatey/nodejs-ec2-project/issues"
+  },
+  "homepage": "https://github.com/sornsomavatey/nodejs-ec2-project#readme",
+  "description": ""
 }
